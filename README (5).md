@@ -1,5 +1,5 @@
 # Jose-Antonio-Cano
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/1ad541a2-ab3f-4b57-a769-4fbe2c0917bf)
+Black Minimal Motivation Quote LinkedIn Banner.png
 
 ### :man_technologist: Sobre mí :
 - Data Scientist
