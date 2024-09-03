@@ -1,8 +1,6 @@
 # Jose-Antonio-Cano
- <img decoding="async" src="https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/021371e6-fb86-43e2-94af-e6793b93bfbd)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/021371e6-fb86-43e2-94af-e6793b93bfbd)
 
-
-<img decoding="async" src= "https://github.com/bboytera/Jos-Antonio-Cano/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png"width="800"/>
 
 ### :man_technologist: Sobre mí :
 - Data Scientist
